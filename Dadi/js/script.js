@@ -35,13 +35,12 @@ else{
 }
 
 
-
 // EXTRA -- condizione per cui mandare i messaggi all'HTML
 if((message === 'Pc') || (message === 'User')){
-   divTextOutput.innerHTML = `${message} vince il gioco dei Dadi!`;
+   divTextOutput.innerHTML = `<strong>${message}</strong> vince il gioco dei Dadi!`;
 }
 else if(message === 'Parità'){
-   divTextOutput.innerHTML = `${message}`;
+   divTextOutput.innerHTML = `<strong>${message}</strong>`;
 }
 
 

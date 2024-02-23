@@ -1,8 +1,4 @@
 
-
-
-
-
 // EXTRA -- collego le variabili Js con Tag HTML
 const pMailList = document.querySelector('.mail_permesse');
 const mailUser = document.querySelector('.input_mail');

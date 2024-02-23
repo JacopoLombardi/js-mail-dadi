@@ -1,6 +1,6 @@
 
 // Array con la lista delle mail consentite
-const mailList = ['mail_1', 'mail_2', 'mail_3', 'mail_4', 'mail_5', 'mail_6',];
+const mailList = ['mail_1', 'mail_2', 'mail_3', 'mail_4', 'mail_5', 'mail_6'];
 
 
 // chiedo all'utente la sua mail
